@@ -1,0 +1,8 @@
+{
+    "chatbot_name": "Smart FAQ Bot \ud83e\udd16",
+    "greeting_message": "Hi there! Ask me any question from the FAQs below.",
+    "theme_color": "#00C4B4",
+    "voice_enabled": true,
+    "voice_input_enabled": true,
+    "voice_speed": 1.0
+}

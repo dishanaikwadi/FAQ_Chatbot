@@ -1,0 +1,10 @@
+venv/
+.idea/
+__pycache__/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.csv
+*.pdf

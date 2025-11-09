@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is your name?",
+    "answer": "I'm your Smart FAQ Chatbot 🤖 — here to help you with any information or task!"
+  },
+  {
+    "question": "How can I contact the support system?",
+    "answer": "You can reach support by emailing support@example.com 📧 or visiting the Help Center in the app."
+  },
+  {
+    "question": "What is Streamlit?",
+    "answer": "Streamlit is a Python framework for building interactive web apps quickly and easily, especially for data and AI projects."
+  },
+  {
+    "question": "How do I add a new FAQ?",
+    "answer": "In the chatbot interface, go to the 'Manage FAQs' section, then click on 'Add FAQ' and enter your question and answer."
+  },
+  {
+    "question": "How do I update an existing FAQ?",
+    "answer": "Under the Manage FAQs section, locate the question you wish to edit, then click 'Update'. Modify the text and save changes."
+  },
+  {
+    "question": "How do I delete an FAQ?",
+    "answer": "In the Manage FAQs panel, simply click 'Delete' next to the question you want to remove 🗑️."
+  },
+  {
+    "question": "Can I use voice input?",
+    "answer": "Yes! The chatbot supports microphone input 🎤. Just click the 'Speak' button to ask your question by voice."
+  },
+  {
+    "question": "What happens if my question isn't found?",
+    "answer": "If your question isn't in the FAQ list, the chatbot will use its AI engine to generate a helpful response 🧠."
+  },
+  {
+    "question": "Can I export all FAQs?",
+    "answer": "Currently you can view, add, update, or delete FAQs. Export functionality can be added later if needed 📦."
+  },
+  {
+    "question": "Who created this chatbot?",
+    "answer": "This chatbot was developed using Streamlit, Python, and open-source AI models by Disha Naikwadi 💻."
+  },
+  {
+    "question": "What kind of questions can I ask?",
+    "answer": "You can ask general queries, system help questions, or FAQ-related topics. If it's not in the FAQ, the AI will respond intelligently."
+  },
+  {
+    "question": "Can I reset all FAQs?",
+    "answer": "Yes. You can clear the file `faqs.json` or use the 'Reset FAQs' option if available to start fresh 🧹."
+  },
+  {
+    "question": "What if the chatbot is slow?",
+    "answer": "Try restarting the app or checking your internet connection. Using a local model also speeds up response times ⚡."
+  },
+  {
+    "question": "Does this bot work offline?",
+    "answer": "Yes! It uses a local FAQ database and can generate responses even without internet connectivity 🌐."
+  },
+  {
+    "question": "Can I add emojis in answers?",
+    "answer": "Absolutely! Emojis are fully supported 😄🔥✅ since the JSON file uses UTF-8 encoding."
+  }
+]

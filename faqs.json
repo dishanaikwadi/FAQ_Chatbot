@@ -33,7 +33,7 @@
   },
   {
     "question": "Can I export all FAQs?",
-    "answer": "Currently you can view, add, update, or delete FAQs. Export functionality can be added later if needed 📦."
+    "answer": "Yes , You can Export the all FAQs 📦."
   },
   {
     "question": "Who created this chatbot?",
@@ -58,5 +58,41 @@
   {
     "question": "Can I add emojis in answers?",
     "answer": "Absolutely! Emojis are fully supported 😄🔥✅ since the JSON file uses UTF-8 encoding."
+  },
+  {
+    "question": "aapka naame kya hai",
+    "answer": "Mera naam FAQ AI ChatBot hai"
+  },
+  {
+    "question": "What is Your Return Policy",
+    "answer": "You can return the Product within 30 Days"
+  },
+  {
+    "question": "How do I change and Cancel My Order?",
+    "answer": "You can change or cancel your order within 24 hours of placing it.\nGo to My Orders → Select the order → Choose “Modify” or “Cancel.”\nIf your order has already been shipped, cancellation may not be possible.\nIn that case, you can refuse delivery or request a return once the order arrives."
+  },
+  {
+    "question": "How do I change and Cancel My Order?",
+    "answer": "You can change or cancel your order within 24 hours of placing it.\nGo to My Orders → Select the order → Choose “Modify” or “Cancel.”\nIf your order has already been shipped, cancellation may not be possible.\nIn that case, you can refuse delivery or request a return once the order arrives."
+  },
+  {
+    "question": "What is your name?",
+    "answer": "I'm your Smart FAQ Chatbot 🤖 — here to help you with any information or task And Your issues!"
+  },
+  {
+    "question": "Me tumchi kay madat karu Shakta",
+    "answer": "jar tumhala kahi product vishayi adchan asel tar tumhi amhala sampark sadhu shaktat"
+  },
+  {
+    "question": "माझा ऑर्डर कसा रद्द करू शकतो?",
+    "answer": "आपला ऑर्डर रद्द करण्यासाठी कृपया ‘My Orders’ विभागात जा आणि ‘Cancel Order’ निवडा.”"
+  },
+  {
+    "question": "What is your return Policy",
+    "answer": "You Can Return the Product within 7 Days"
+  },
+  {
+    "question": "What Payment Methods Do you accept",
+    "answer": "We Can Accept Credit Card ,Netbanking and UPI Payments"
   }
 ]
